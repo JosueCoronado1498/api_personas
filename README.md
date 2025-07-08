@@ -1,6 +1,6 @@
-# 🚀 Proyecto: API REST – Gestor de Tareas con Spring Boot
+# 🚀 Proyecto: API REST – CRUD basico gestion personas
 
-Aplicación Java de consola para gestionar tareas: agregar, buscar, listar y eliminar.
+Aplicación Java de consola para gestionar personas y mascotas: agregar, buscar, listar y eliminar.
 
 ## Tecnologías
 - Java 17+
@@ -12,8 +12,8 @@ Aplicación Java de consola para gestionar tareas: agregar, buscar, listar y eli
 - Maven
 
 ## Estructura
-- `Tarea`: representa una tarea.
-- `Gestor`: maneja el gestor de tareas.
+- `Persona`: Representa una persona.
+- `Mascota`: Representa una mascota .
 - `Main`: menú interactivo en consola.
 
 ## Cómo ejecutar
